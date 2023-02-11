@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Azeem</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Azeem Khan</h1>
+<h3 align="center">GIS Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilk121&label=Profile%20views&color=0e75b6&style=flat" alt="adilk121" /> </p>
 
